@@ -12,6 +12,7 @@ A simple Python program that tests your typing speed in **Words Per Minute (WPM)
 Make sure you have Python installed:
 
 python --version
+python 3.x
 
 ℹ️Installation
 
@@ -37,7 +38,9 @@ Type the following sentence:
 The quick brown fox jumps over the lazy dog
 
 -> Press Enter to start...
+
 -> Start typing: The quick brown fox jumps over the lazy dog
+
 
 #Time taken: 7.42 seconds
 Your typing speed: 72.42 words per minute
