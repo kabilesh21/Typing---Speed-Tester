@@ -1,4 +1,4 @@
-Typing-speed-test
+🔗Typing-speed-test
 This repository contains a Python-based Typing Speed Test Application. It allows users to test and measure their typing speed by providing a random set of words that need to be typed within a specified time limit. The application calculates the typing speed in words per minute (WPM) and provides feedback on accuracy.
 
 Features
