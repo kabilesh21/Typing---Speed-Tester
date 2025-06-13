@@ -1,7 +1,7 @@
-⌨️ Typing Speed Tester
+###⌨️ Typing Speed Tester
 A simple Python program that tests your typing speed in **Words Per Minute (WPM)** and calculates accuracy by comparing your input to a given sentence.
 
-📌 Features
+##📌 Features
 - Measures **Words Per Minute (WPM)**
 - Calculates **Accuracy (%)**
 - Shows **Elapsed Time**
