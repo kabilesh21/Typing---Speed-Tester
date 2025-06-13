@@ -17,7 +17,7 @@ python 3.x
 ℹ️Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/typing-speed-tester.git
+git clone https://github.com/kabilesh21/Typing---Speed-Tester.git
 cd typing-speed-tester
 
 2. Run the script:
